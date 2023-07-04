@@ -1,6 +1,6 @@
-Crud app is a simple react app built with classes
+### Crud app is a simple react app built with classes
 
-Stack: ReactJS (Classes)
+#### Stack: ReactJS (Classes)
 
 # Getting Started with Create React App
 
